@@ -1,4 +1,3 @@
-https://stackoverflow.com/questions/37694987/connecting-to-postgresql-in-a-docker-container-from-outside
 
 
 ```sh
@@ -28,3 +27,8 @@ insert into address (street) values ('PV 401');
 select * from address;
 ```
 
+## References
+
+https://stackoverflow.com/questions/37694987/connecting-to-postgresql-in-a-docker-container-from-outside
+
+https://stackoverflow.com/questions/70021392/rust-and-postgresql-with-tokio-postgres
